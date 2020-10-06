@@ -1,0 +1,28 @@
+This file contains info about what my application will be like.
+
+Emulator app - program which is designed to emulate the work of a chosen 
+proccessor.
+
+Goal: execute intructions and show the values stored in registers.
+
+Setup:  * Creating a memory space for Commands and Data
+	    * Setting PC = 0;
+	    * Creating Registers
+	    * Creating format for commands (16 bits max)
+        * Creating programs and assigning them to program memory
+
+Objects: Processor, Decipher, Program, Compiler
+
+Processor - runs a given program
+Program - object which contains program for a Processor
+Compiler - reads Program, checks for mistakes
+Decipher - splits up given command
+
+0001_0000000000000000_
+
+Вариант:  01011
+Фон нейман
+1 адрес
+ПО УМОЛЧАНИЮ адрес 1 операнда нету
+ПО УМОЛЧАНИЮ адрес 1 операнда - ax;
+Сумма всех элементов в массиве

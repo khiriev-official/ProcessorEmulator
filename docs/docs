@@ -1,0 +1,18 @@
+1. Understand how the application will work.
+    * Set a GOAL.
+    * Define the SETUP(Подготовка) proccess for app.
+    * How the user is going to use app: command line, GUI or else.
+2. High-Level Design of application.
+    * Decide the general idea of working proccess. 
+    * Draw the UML diagram of working algorithm
+    * Define what objects are needed. Start Simple: less objects
+3. Classes and objects. Creating classes. Repeat this step for each class.
+    * Define what class can do
+    * List all class variables and methods
+    * Write Pseudo Code for each method
+    * Write test code for each method(in separate class)
+    * Creating the class with real code.
+    * Run tests for each method
+    * Correct errors and debug
+    * HOORAY! You are great!
+4. Run the program.
