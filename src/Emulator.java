@@ -3,7 +3,7 @@ public class Emulator {
     //Prepares registers
     //initializes commands
     public static void main(String[] args) {
-        Processor processor = new Processor(4, 17, 10);
+        Processor processor = new Processor(6, 17, 10);
         processor.executeProgram();
     }
 }
